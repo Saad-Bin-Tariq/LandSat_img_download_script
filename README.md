@@ -5,6 +5,7 @@ This repository contains a Python tool for downloading Landsat data within a spe
 ## Introduction
 
 Landsat satellite imagery is widely used for various purposes such as land cover research, environmental monitoring, and change detection. However, accessing and downloading Landsat data for a specific area can be challenging, especially for individuals unfamiliar with remote sensing and programming. This tool aims to address this challenge by providing a simple and automated solution for downloading Landsat images within a specified ROI.
+
 <img width="683" alt="map_isb_landsat" src="https://github.com/Saad-Bin-Tariq/LandSat_img_download_script/assets/87191427/93cda0fd-2179-455f-a626-fe63c3aba6fb">
 
 
